@@ -1,1 +1,1 @@
-# Hand-Written-Character-Recognition
+# Handwritten-Character-Recognition
